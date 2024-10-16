@@ -1,3 +1,13 @@
+![image](https://github.com/user-attachments/assets/70221ce6-ccef-4183-9f1c-f4dcca96d0c6)
+
+
+
+
+
+
+
+
+
 **Project Overview**
 
 This project focuses on predicting real estate prices using advanced regression techniques. By leveraging various regression algorithms and feature engineering strategies, the goal is to build a model that can accurately estimate property prices based on several real estate features.

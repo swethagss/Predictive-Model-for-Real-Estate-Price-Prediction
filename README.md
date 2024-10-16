@@ -19,12 +19,12 @@ Fine-tune the model to minimize prediction error.
 
 The dataset used in this project consists of several features such as:
 
-Lot Area
-Year Built
-Overall Quality
-Location (Neighborhood)
-Number of Bathrooms
-Garage Size
-Condition of the Property and so on
+Lot Area,
+Year Built,
+Overall Quality,
+Location (Neighborhood),
+Number of Bathrooms,
+Garage Size,
+Condition of the Property etc.
 The dataset contains both numerical and categorical features that require preprocessing before being fed into the regression model. The dataset is divided into training and test sets for evaluation.
 
